@@ -1,4 +1,4 @@
-# Atoms_mean_distance_in_MD
+# Atoms_mean_distance_in_Schrodinger_Desmond_MD
 Find the mean distance of an atomtype in MD simulations using desmond during the whole period of the simulation.
 Prepare the text file before you start so Rstudio can open the file. (.mae files were used for all the frames of the simulation)
 Extract from the software the ligands for all the frames
